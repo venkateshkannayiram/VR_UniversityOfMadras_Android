@@ -20,7 +20,7 @@ In this project, the entire 3D models were created by Revit Autodesk and the ETL
 https://drive.google.com/file/d/1thAqgpjVR49rvlO-gHzRt5iLMQ7rBbJN/view?usp=share_link
 
 # Project Screenshots
-![Screenshot_2022-11-21-10-17-09-199_com google samples apps cardboarddemo](https://user-images.githubusercontent.com/90943529/202970439-db116ed6-0384-47c9-bc4f-a63213840b67.jpg)
+![Screenshot_2022-11-21-10-17-09-199_com google samples apps cardboarddemo](https://user-images.githubusercontent.com/90943529/203065262-91f6fadf-a634-4faf-9403-86a15a720a10.jpg)
 
 ![Screenshot_2022-11-21-10-17-15-353_com Venkatesh VRUNOM](https://user-images.githubusercontent.com/90943529/202970594-84df7753-0003-4ad9-9015-ee13825ee22b.jpg)
 
