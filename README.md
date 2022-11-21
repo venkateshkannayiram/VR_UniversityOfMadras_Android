@@ -12,6 +12,10 @@ Madras University is the mother of almost all the old Universities of south Indi
 # About This Project
 In this project, I created an entire 3D model of a Madras University, Guindy campus. Using Unity3D i made this VR app for android devices, through this app anyone can able to view the entire UNOM Guindy campus in VR Mode by simply installing the .apk on their android device.
 
+# Pre-Requirements
+1. Android device with Android 7.0 or above.
+2. VR Headset with controller.
+
 # Project Screenshots
 ![Screenshot_2022-11-21-10-17-09-199_com google samples apps cardboarddemo](https://user-images.githubusercontent.com/90943529/202970439-db116ed6-0384-47c9-bc4f-a63213840b67.jpg)
 
