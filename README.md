@@ -10,7 +10,7 @@ The Public Petition dated 11-11-1839 initiated the establishment of Madras Unive
 Madras University is the mother of almost all the old Universities of south India. The University area of jurisdiction has been confined to three districts of Tamil Nadu in recent years. This is consequent to establishment of various universities in the State and demarcation of the University territories. This University has been growing from strength to strength while widening its teaching and research activities.
 
 # About the Project
-In this project, I created an entire 3D model of the University of madras, Guindy campus using Revit Autodesk. Through ETL I converted the Revit file format to the Unity-Supported .fbx file format. Using Unity3D i made this VR app for android devices, through this app anyone can able to view the entire UNOM Guindy campus in VR Mode by simply installing the .apk on their android device.
+In this project, I created an entire 3D model of the University of madras, Guindy campus using Revit Autodesk. Through ETL I converted the Revit file format to the Unity-Supported .fbx file format. Using Unity3D I made this VR app for android devices, through this app anyone can able to view the entire UNOM Guindy campus in VR Mode by simply installing the .apk on their android device.
 
 # Pre-Requirements
 1. Android device with Android 7.0 or above.
